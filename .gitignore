@@ -2,3 +2,4 @@ node_modules/
 .DS_Store
 frontend/release/
 frontend/dist/
+backend/.env
